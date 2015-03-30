@@ -1,3 +1,3 @@
 # JavaPratice
 
-# pritice gethub usage
+# pratice gethub usage
